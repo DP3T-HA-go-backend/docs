@@ -6,4 +6,4 @@
 - [Security Concepts](docs/Security.md)
 - [Useful links to the APP for backend developers](docs/Findings.md)
 - [KVS development](docs/KVS.md)
-- [Kubernetes provisioning and DP3T deployment](https://github.com/DP3T-HA-go-backend/infrastructure/README.md)
+- [Kubernetes provisioning and DP3T deployment](https://github.com/DP3T-HA-go-backend/infrastructure/blob/master/README.md)
